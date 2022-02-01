@@ -1,0 +1,27 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.img-head{
+    height: 220px;
+    width: 100%;
+    margin-top: 0;
+    background-image: url('https://www.osakidetza.euskadi.eus/contenidos/informacion/osk_osaesk_insuficiencia_cardi/es_def/images/ab84-cardiovascular-electrograma.jpg');
+    background-size: 100%;
+}
+.title{
+    overflow-y: hidden;
+}
+.conten-formulario{
+    background: #FFF;
+    border-radius: 10px;
+    width: 50%;
+    padding: 15px;
+    height: auto;
+    margin-top: -140px !important;
+    position: absolute;
+    -webkit-box-shadow: 1px 3px 5px -1px rgba(56,56,56,1);
+    -moz-box-shadow: 1px 3px 5px -1px rgba(56,56,56,1);
+    box-shadow: 1px 3px 5px -1px rgba(56,56,56,1);
+}
